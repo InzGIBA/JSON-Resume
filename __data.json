@@ -1,0 +1,174 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Алмас Бактубаев",
+    "label": "CTO / Lead / Developer",
+    "image": "",
+    "email": "a.baktubayev@gmail.com",
+    "phone": "+7 (708) 8308604",
+    "url": "https://inzgiba.me",
+    "summary": "Человек, превращающий кофе и/или чай в код. Опытный разработчик с 7+ годами опыта в backend-разработке, системной интеграции и управлении командами.",
+    "location": {
+      "city": "Алматы",
+      "countryCode": "KZ",
+      "region": "Алатау"
+    },
+    "profiles": [
+      {
+        "network": "Website",
+        "username": "inzgiba",
+        "url": "https://inzgiba.me"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "My Startups",
+      "position": "CTO",
+      "url": "https://mystartups.kz",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "MyCar Group",
+      "position": "TechLead",
+      "url": "https://mycar.kz",
+      "startDate": "2022-03-01",
+      "endDate": "2024-12-31",
+      "summary": "Системная интеграция, автоматизация технологических и бизнес-процессов предприятия, ИТ-консалтинг",
+      "highlights": []
+    },
+    {
+      "name": "MyCar Group",
+      "position": "Back-end разработчик",
+      "url": "https://mycar.kz",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-31",
+      "summary": "Системная интеграция, автоматизация технологических и бизнес-процессов предприятия, ИТ-консалтинг",
+      "highlights": []
+    },
+    {
+      "name": "ТОО OSU technology",
+      "position": "Back-end разработчик",
+      "url": "",
+      "startDate": "2021-07-01",
+      "endDate": "2021-12-31",
+      "summary": "Разработка программного обеспечения",
+      "highlights": []
+    },
+    {
+      "name": "dooverTech",
+      "position": "Back-end разработчик / Freelance",
+      "url": "https://doovertech.com",
+      "startDate": "2020-08-01",
+      "endDate": "2021-10-31",
+      "summary": "Разработка программного обеспечения",
+      "highlights": []
+    },
+    {
+      "name": "The Factory",
+      "position": "Back-end разработчик",
+      "url": "https://thefactory.kz",
+      "startDate": "2020-03-01",
+      "endDate": "2020-07-31",
+      "summary": "Разработка программного обеспечения, системная интеграция, автоматизация технологических и бизнес-процессов предприятия, ИТ-консалтинг",
+      "highlights": []
+    },
+    {
+      "name": "do-it.kz",
+      "position": "Back-end разработчик",
+      "url": "https://do-it.kz",
+      "startDate": "2019-09-01",
+      "endDate": "2020-02-29",
+      "summary": "Разработка программного обеспечения, системная интеграция, консалтинговые услуги",
+      "highlights": []
+    },
+    {
+      "name": "CLOUD MONEY",
+      "position": "Back-end разработчик",
+      "url": "https://cloudmoney.kz",
+      "startDate": "2017-11-01",
+      "endDate": "2018-11-30",
+      "summary": "Финансово-кредитное посредничество, платежные системы",
+      "highlights": []
+    },
+    {
+      "name": "Неизвестная компания",
+      "position": "Front-end разработчик",
+      "url": "",
+      "startDate": "2017-11-01",
+      "endDate": "2018-11-30",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Талгарский колледж агробизнеса и менеджмента",
+      "url": "",
+      "area": "Вычислительная техника и программное обеспечение",
+      "studyType": "Среднее специальное",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "Django Framework",
+        "DRF",
+        "REST",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "level": "Advanced",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Celery"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Tools & Version Control",
+      "level": "Advanced",
+      "keywords": [
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Русский",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "publications": [],
+  "volunteer": [],
+  "certificates": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2025-02-19T13:50:00.000Z"
+  }
+}
