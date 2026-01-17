@@ -138,19 +138,6 @@
         "Contributed to transaction monitoring and fraud detection systems",
         "Ensured PCI DSS compliance in payment processing workflows"
       ]
-    },
-    {
-      "name": "Unknown Company",
-      "position": "Frontend Developer",
-      "url": "",
-      "startDate": "2017-11-01",
-      "endDate": "2018-11-30",
-      "summary": "Early career position focusing on frontend development and web technologies.",
-      "highlights": [
-        "Developed responsive web interfaces using HTML5, CSS3, and JavaScript",
-        "Collaborated with design teams to implement pixel-perfect UI implementations",
-        "Ensured cross-browser compatibility and mobile responsiveness"
-      ]
     }
   ],
   "education": [
