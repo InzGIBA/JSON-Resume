@@ -28,13 +28,8 @@
       "url": "https://mystartups.kz",
       "startDate": "2025-01-01",
       "endDate": "",
-      "summary": "Leading technology strategy and execution for multiple startup ventures, focusing on innovative solutions and rapid market deployment.",
-      "highlights": [
-        "Defining technology vision and architecture for new venture initiatives",
-        "Building scalable technical foundations from ground zero",
-        "Establishing engineering best practices and development workflows",
-        "Driving innovation through emerging technologies and modern development practices"
-      ]
+      "summary": "Description to be added.",
+      "highlights": []
     },
     {
       "name": "MyCar Group",
@@ -42,15 +37,16 @@
       "url": "https://mycar.kz",
       "startDate": "2022-03-01",
       "endDate": "2024-12-31",
-      "summary": "Led technical transformation initiatives and engineering team for a major automotive technology company, focusing on enterprise system integration and business process automation.",
+      "summary": "Led technical transformation initiatives with primary focus on system stability, security hardening, and infrastructure resilience for a major automotive technology company.",
       "highlights": [
-        "Architected and implemented comprehensive system integration solutions across 15+ enterprise systems",
-        "Led a cross-functional team of 8+ engineers in delivering mission-critical business automation projects",
-        "Reduced operational overhead by 40% through intelligent process automation and workflow optimization",
-        "Established CI/CD pipelines and DevOps practices, improving deployment frequency by 300%",
-        "Provided strategic IT consulting to C-level executives on digital transformation initiatives",
-        "Mentored junior developers and conducted technical workshops to elevate team capabilities",
-        "Designed and deployed microservices architecture using Django, FastAPI, Docker, and Kubernetes"
+        "Established comprehensive security framework reducing vulnerabilities by 85%",
+        "Implemented system monitoring and alerting infrastructure achieving 99.9% uptime",
+        "Led security audit and remediation efforts, implementing SAST/DAST scanning in CI/CD pipeline",
+        "Architected disaster recovery and backup strategies ensuring business continuity",
+        "Deployed infrastructure hardening measures including WAF, DDoS protection, and intrusion detection",
+        "Managed cross-functional team of 8+ engineers in delivering mission-critical stability improvements",
+        "Established incident response procedures and on-call rotation for 24/7 system reliability",
+        "Implemented automated security patching and vulnerability management processes"
       ]
     },
     {
@@ -70,30 +66,33 @@
     },
     {
       "name": "OSU Technology LLC",
-      "position": "Backend Developer",
+      "position": "Backend Developer / Freelance",
       "url": "",
       "startDate": "2021-07-01",
       "endDate": "2021-12-31",
-      "summary": "Developed custom software solutions with focus on backend systems and API development.",
+      "summary": "Freelance backend development for restaurant technology solutions, focusing on online ordering and payment systems.",
       "highlights": [
-        "Designed and implemented scalable backend architectures using Python and Django",
-        "Created comprehensive API documentation and testing suites",
-        "Collaborated with frontend teams to deliver seamless user experiences",
-        "Participated in code reviews and maintained high code quality standards"
+        "Developed complete backend system for Marrone Rosso restaurant chain",
+        "Implemented online ordering platform with takeout and advance reservation capabilities",
+        "Built RESTful APIs for order management, kitchen operations, and customer interactions",
+        "Integrated payment processing and real-time order tracking systems",
+        "Designed scalable architecture to handle peak ordering hours"
       ]
     },
     {
       "name": "dooverTech",
-      "position": "Backend Developer / Freelance",
+      "position": "Backend Developer",
       "url": "https://doovertech.com",
       "startDate": "2020-08-01",
       "endDate": "2021-10-31",
-      "summary": "Delivered custom software development projects as an independent contractor, specializing in backend solutions.",
+      "summary": "Developed diverse backend solutions and implemented Kubernetes infrastructure for multiple client projects ranging from e-commerce to IoT surveillance systems.",
       "highlights": [
-        "Successfully completed 10+ freelance projects with diverse technical requirements",
-        "Built end-to-end backend solutions from requirements gathering to deployment",
-        "Implemented secure authentication systems and data management solutions",
-        "Maintained direct client relationships and managed project deliverables independently"
+        "Deployed and managed Kubernetes infrastructure for containerized microservices",
+        "Built complete backend for 'Woop' online dry cleaning service with order management and processing workflows",
+        "Developed urban logistics microservice with intelligent time slot scheduling for customer-convenient pickup/delivery",
+        "Created online furniture store platform specializing in barbershop and hair salon equipment",
+        "Architected unified backend serving three distinct shashlik ordering platforms with shared infrastructure",
+        "Designed IoT surveillance detection system using Raspberry Pi and camera integration - analyzing vehicle license plates, tracking patterns, comparing car models and colors for personal security monitoring"
       ]
     },
     {
@@ -102,12 +101,13 @@
       "url": "https://thefactory.kz",
       "startDate": "2020-03-01",
       "endDate": "2020-07-31",
-      "summary": "Contributed to software development projects focusing on system integration and business process automation.",
+      "summary": "Developed backend solutions for a web development studio specializing in interactive web applications and fintech platforms.",
       "highlights": [
-        "Developed backend modules for business management systems",
-        "Integrated third-party APIs and external services",
-        "Implemented automated testing frameworks improving code reliability",
-        "Participated in agile development processes and sprint planning"
+        "Created online gaming platform for Pepsi marketing campaign with real-time gameplay mechanics",
+        "Developed Astra Lombard payment platform - comprehensive lending and payment solution",
+        "Integrated acquiring systems processing 600-900 million KZT annual transaction volume",
+        "Built secure payment processing infrastructure meeting financial compliance standards",
+        "Implemented real-time transaction monitoring and reporting systems"
       ]
     },
     {
@@ -116,12 +116,13 @@
       "url": "https://do-it.kz",
       "startDate": "2019-09-01",
       "endDate": "2020-02-29",
-      "summary": "Developed backend solutions and provided consulting services for system integration projects.",
+      "summary": "Developed backend infrastructure for OSINT (Open Source Intelligence) platform that aggregated and analyzed digital footprints to create comprehensive digital profiles.",
       "highlights": [
-        "Built custom backend solutions for client-specific business requirements",
-        "Provided technical consulting on system architecture and integration strategies",
-        "Developed API integrations for B2B platforms",
-        "Contributed to database design and optimization efforts"
+        "Built data collection systems aggregating information from social networks, messengers, and public sources",
+        "Developed algorithms for digital profile formation and pattern recognition",
+        "Implemented secure data processing pipelines handling sensitive personal information",
+        "Created APIs for data retrieval and profile analysis",
+        "Designed scalable architecture for processing large volumes of multi-source data"
       ]
     },
     {
@@ -132,11 +133,26 @@
       "endDate": "2018-11-30",
       "summary": "Developed backend systems for a fintech company specializing in payment systems and financial intermediation.",
       "highlights": [
-        "Built secure payment processing systems handling sensitive financial data",
-        "Implemented compliance and security measures meeting financial industry standards",
-        "Developed RESTful APIs for payment gateway integrations",
-        "Contributed to transaction monitoring and fraud detection systems",
+        "Built online quiz game platform with prize draw mechanics and real-time user engagement",
+        "Developed document analysis and validation system for customer verification using OCR and pattern recognition",
+        "Implemented secure payment processing systems handling sensitive financial data",
+        "Created RESTful APIs for payment gateway integrations",
         "Ensured PCI DSS compliance in payment processing workflows"
+      ]
+    },
+    {
+      "name": "CLOUD MONEY",
+      "position": "Frontend Developer",
+      "url": "https://cloudmoney.kz",
+      "startDate": "2017-11-01",
+      "endDate": "2018-11-30",
+      "summary": "Developed user-facing interfaces for fintech B2C platform aggregating banking services.",
+      "highlights": [
+        "Built responsive B2C platform aggregating bank offers and financial products",
+        "Created intuitive interface allowing customers to compare and select optimal banking solutions",
+        "Implemented dynamic filtering and comparison features for financial products",
+        "Developed mobile-responsive layouts ensuring cross-device compatibility",
+        "Collaborated with UX designers to deliver pixel-perfect implementations"
       ]
     }
   ],
@@ -147,7 +163,7 @@
       "area": "Computer Technology and Software",
       "studyType": "Associate Degree",
       "startDate": "",
-      "endDate": "2015-12-31",
+      "endDate": "2015-07-31",
       "score": "",
       "courses": [
         "Software Development",
